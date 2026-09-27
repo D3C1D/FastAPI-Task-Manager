@@ -132,3 +132,17 @@ Schema Layer
 
 Exception Layer
 → centralizes error handling
+
+## Screenshots
+
+### Swagger/OpenAPI Documentation
+
+assets/swagger_overview.png
+
+### Automated Testing
+
+assets/pytest_results.png
+
+### Project Structure
+
+assets/project_structure.png
