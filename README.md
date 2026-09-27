@@ -49,7 +49,8 @@ tests/
 
 ## Installation
 
-git clone <repository-url>
+```bash
+git clone git@github.com:D3C1D/FastAPI-Task-Manager.git
 
 cd FastAPI-Task-Manager
 
@@ -58,10 +59,13 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
+```
 
 ## Running The Application
 
+```bash
 uvicorn app.main:app --reload
+```
 
 ## API Documentation
 
