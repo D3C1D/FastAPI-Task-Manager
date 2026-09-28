@@ -146,3 +146,13 @@ assets/pytest_results.png
 ### Project Structure
 
 assets/project_structure.png
+
+## Live Demo
+
+### Application
+
+https://fastapi-task-manager-srm5.onrender.com
+
+### Swagger Documentation
+
+https://fastapi-task-manager-srm5.onrender.com/docs
