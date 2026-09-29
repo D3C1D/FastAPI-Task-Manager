@@ -69,9 +69,7 @@ uvicorn app.main:app --reload
 
 ## API Documentation
 
-Swagger UI is available at:
-
-http://127.0.0.1:8000/docs
+Swagger UI is available through the Live Demo section below.
 
 ## Running Tests
 
@@ -137,15 +135,15 @@ Exception Layer
 
 ### Swagger/OpenAPI Documentation
 
-assets/swagger_overview.png
+<img src="assets/swagger_overview.png" width=600></img>
 
 ### Automated Testing
 
-assets/pytest_results.png
+<img src="assets/pytest_results.png" width=600></img>
 
 ### Project Structure
 
-assets/project_structure.png
+<img src="assets/project_structure.png" width=100></img>
 
 ## Live Demo
 
